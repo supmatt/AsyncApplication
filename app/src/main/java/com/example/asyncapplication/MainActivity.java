@@ -11,7 +11,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
-
+/// analyse how to use Github
 public class MainActivity extends AppCompatActivity {
 
     private Button button;
